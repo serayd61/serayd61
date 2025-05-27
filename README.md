@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Seray!%20👋&fontSize=50)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Serayd61!%20👋&fontSize=50)
 <div align="center">
   
   ### Welcome to my GitHub profile! I'm a passionate developer constantly striving to learn new technologies and improve my skills. Here you'll find a collection of my projects, contributions, and collaborations.
